@@ -9,10 +9,14 @@
 
         'colocar el texto de los botones y labels
         btn_mostrar_mensaje.Text = "Mostrar mensaje"
+        btn_cambiar_mensaje.Text = "Cambiar mensaje"
         Label1.Text = "Mensaje"
 
         Label1.Visible = False
         Label2.Visible = False
+        btn_cambiar_mensaje.Visible = False
+        TextBox1.Visible = False
+
 
 
     End Sub
@@ -23,6 +27,8 @@
         'mostrar los elementos que mostrarán los mensajes
         Label1.Visible = True
         Label2.Visible = True
+        btn_cambiar_mensaje.Visible = True
+
 
         Select Case numeroMensaje
             Case 0
@@ -42,5 +48,24 @@
 
 
 
+    End Sub
+
+    Private Sub btn_cambiar_mensaje_Click(sender As Object, e As EventArgs) Handles btn_cambiar_mensaje.Click
+
+        TextBox1.Visible = True
+        
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+        Select Case numeroMensaje
+            Case 0
+                mensaje1 = TextBox1.Text
+            Case 1
+                mensaje2 = TextBox1.Text
+            Case 2
+                mensaje3 = TextBox1.Text
+            Case 3
+                mensaje4 = TextBox1.Text
+        End Select
     End Sub
 End Class
