@@ -1,0 +1,10 @@
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\bin\Debug\Pruebas github VB.exe.config
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\bin\Debug\Pruebas github VB.exe
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\bin\Debug\Pruebas github VB.pdb
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\bin\Debug\Pruebas github VB.xml
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\obj\Debug\Pruebas_github_VB.Form1.resources
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\obj\Debug\Pruebas_github_VB.Resources.resources
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\obj\Debug\Pruebas github VB.vbproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\obj\Debug\Pruebas github VB.exe
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\obj\Debug\Pruebas github VB.xml
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github VB\Pruebas github VB\obj\Debug\Pruebas github VB.pdb
